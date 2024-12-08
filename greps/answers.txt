@@ -1,7 +1,16 @@
 # Part 1
 ### a)
-
-
+grep "beed" forest/filescan_00.1 > captured/beedrill.txt
+grep "blas" forest/filescan_00.1 > captured/blastoise.txt
+grep "bulb" forest/filescan_00.1 > captured/bulbasaur.txt
+grep "butt" forest/filescan_00.1 > captured/butterfree.txt
+grep "izard" forest/filescan_00.2 > captured/charizard.txt
+grep "mander" forest/filescan_00.2 > captured/charmander.txt
+grep "meleon" forest/filescan_00.2 > captured/charmeleon.txt
+grep "ivys" forest/filescan_00.3 > captured/ivysaur.txt
+grep "jigg" forest/filescan_00.3 > captured/jigglypuff.txt
+grep "meow" forest/filescan_00.3 > captured/meowth.txt
+grep "pika" forest/filescan_00.3 > captured/pikachu.txt
 
 
 ### b)
