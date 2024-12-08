@@ -11,7 +11,10 @@ grep "ivys" forest/filescan_00.3 > captured/ivysaur.txt
 grep "jigg" forest/filescan_00.3 > captured/jigglypuff.txt
 grep "meow" forest/filescan_00.3 > captured/meowth.txt
 grep "pika" forest/filescan_00.3 > captured/pikachu.txt
-
+grep "psyd" forest/filescan_00.4 > captured/psyduck.txt
+grep "squi" forest/filescan_00.4 > captured/sqirtle.txt
+grep "venu" forest/filescan_00.4 > captured/venusaur.txt
+grep "wart" forest/filescan_00.4 > captured/wartortle.txt
 
 ### b)
 
