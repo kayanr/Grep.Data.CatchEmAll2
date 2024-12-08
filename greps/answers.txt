@@ -9,7 +9,21 @@
 
 
 ### c)
-
+I found beedrill in the filescan_00.1 section of the forest.
+I found blastoise in the filescan_00.1 section of the forest.
+I found bulbasaur in the filescan_00.1 section of the forest.
+I found butterfree in the filescan_00.1 section of the forest.
+I found charizard in the filescan_00.2 section of the forest.
+I found charmander in the filescan_00.2 section of the forest.
+I found charmeleon in the filescan_00.2 section of the forest.
+I found ivysaur in the filescan_00.3 section of the forest.
+I found jigglypuff in the filescan_00.3 section of the forest.
+I found meowth in the filescan_00.3 section of the forest.
+I found pikachu in the filescan_00.3 section of the forest.
+I found psyduck in the filescan_00.4 section of the forest.
+I found squirtle in the filescan_00.4 section of the forest.
+I found venusaur in the filescan_00.4 section of the forest.
+I found wartortle in the filescan_00.4 section of the forest.
 
 
 
